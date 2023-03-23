@@ -1,3 +1,5 @@
+Note: port from GitHub Enterprise repository
+
 The top-level class that reads the input and produces output is Main.
 
 Choice of implementation for each logical selection operator: 
