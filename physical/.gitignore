@@ -1,0 +1,13 @@
+/BNLJOperator.class
+/EliminateDuplicatesOperator.class
+/ExternalSortOperator$BufferedTuple.class
+/ExternalSortOperator$BufferedTupleComparator.class
+/ExternalSortOperator.class
+/IndexScan.class
+/JoinOperator.class
+/Operator.class
+/ProjectOperator.class
+/ScanOperator.class
+/SelectOperator.class
+/SortMergeJoinOperator.class
+/SortOperator.class

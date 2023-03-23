@@ -1,0 +1,9 @@
+/LogicalScanOperator.class
+/LogicalSelectOperator.class
+/LogicalOperator.class
+/LogicalSortOperator.class
+/LogicalProjectOperator.class
+/LogicalEliminateDuplicatesOperator.class
+/LogicalJoinOperator.class
+/PhysicalPlanBuilder.class
+/LogicalMultiJoin.class
